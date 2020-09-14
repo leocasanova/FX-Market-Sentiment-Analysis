@@ -58,7 +58,7 @@ Futures Open Interest can also help gauge sentiment. Open interest (OI), simply 
 
 The following table shows how open interest is typically interpreted for a futures contract.
 
-<img src="MarketSentimentAnalysisTool/assets/table.png" width="200">
+<img src="MarketSentimentAnalysisTool/assets/table.png" width="2000">
 
 The data then must be applied to the forex market. For example, strength in euro futures (US dollar weakness) will likely keep pushing the EUR/USD higher. Weakness in Japanese yen futures (US dollar strength) will likely push the USD/JPY higher.
 
