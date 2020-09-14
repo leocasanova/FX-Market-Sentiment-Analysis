@@ -1,5 +1,9 @@
 # FX-Market-Sentiment-Analysis
 
+<img src="capture1.png">
+
+<img src="capture2.png">
+
 Link to the website: https://leocasanova.pythonanywhere.com/
 
 ## About
